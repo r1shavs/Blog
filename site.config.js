@@ -23,8 +23,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://smooth-airboat-1a9.notion.site/2b28ed767e7a4592834843aedde3edb9?v=69d18ab188a8489b9cf1eb7599b024eb&pvs=4",
-  since: , // If leave this empty, current year will be used.
+  link: "https://morethan-log.vercel.app",
+  since: 2024 , // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
