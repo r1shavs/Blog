@@ -1,30 +1,30 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    name: "Rishav S",
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjozLCJub3NlIjo3LCJtb3V0aCI6MTEsImV5ZXMiOjAsImV5ZWJyb3dzIjo0LCJnbGFzc2VzIjoxMSwiaGFpciI6NSwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiMyZjU0ZWIiLCJzaGFwZSI6InNxdWFyZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Security Researcher",
+    bio: "Strengthening Defense Mechanisms",
+    email: "",
+    linkedin: "https://www.linkedin.com/in/rishav-s-50797b155/",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `Research Blog`,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Research Blog",
+    description: "welcome to my Knowledge Base",
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://smooth-airboat-1a9.notion.site/2b28ed767e7a4592834843aedde3edb9?v=69d18ab188a8489b9cf1eb7599b024eb&pvs=4",
+  since: , // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
