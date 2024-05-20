@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Rishav S",
-    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjozLCJub3NlIjo3LCJtb3V0aCI6MTEsImV5ZXMiOjAsImV5ZWJyb3dzIjo0LCJnbGFzc2VzIjoxMSwiaGFpciI6NSwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6IiMyZjU0ZWIiLCJzaGFwZSI6InNxdWFyZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Security Researcher",
     bio: "Strengthening Defense Mechanisms",
     email: "",
